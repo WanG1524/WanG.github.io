@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![WanG1524](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/WanG1524)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a PhD at the College of Artificial Intelligence, Xi'an Jiaotong University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>WanG1524stu.xjtu.edu.cn</code>  
+<code>ww1140025076@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Xi'an Jiaotong University**, PhD of Artificial Intelligence(2023 – Present)  
+• GPA: 3.24/4.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+BEV, UAV, VLM.
